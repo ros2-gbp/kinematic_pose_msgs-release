@@ -1,0 +1,9 @@
+ros-kilted-kinematic-pose-msgs (1.0.0-1bookworm) bookworm; urgency=high
+
+  * Add description on README
+  * Add KinematicPose message
+  * Contributors: Leonardo F. dos Santos
+
+ -- Leonardo F. dos Santos <44267124+qleonardolp@users.noreply.github.com>  Wed, 18 Mar 2026 03:00:00 -0000
+
+
